@@ -39,7 +39,7 @@ To use this framework:
 3. Open the `pyFi_origin.ipynb` to run the KKS code or `Postprocess.ipynb` for post-processing tasks.
 
 ## Licensing
-You are free to use, edit, and distribute this code under [specify license type, e.g., MIT, GPL]. Please refer to the `LICENSE` file for detailed terms and conditions.
+You are free to use, edit, and distribute this code under [Apache License v2.0]. 
 
 ## Contributors
 - **Code Developers**: [Jocelyn Delahaye and Seifallah El Fetni]
