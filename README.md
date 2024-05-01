@@ -47,6 +47,6 @@ You are free to use, edit, and distribute this code under [Apache License v2.0].
 ---
 
 ## Supplementary video:
-![][(https://github.com/SFETNI/PINNs_MPF/blob/Main/Supplementary/Intro_Framework.gif](https://github.com/SFETNI/KKS-Phase-Field-code/blob/main/save_fig/Supp_Mat_computed_microstructure_evolution.mp4))
+![][([https://github.com/SFETNI/PINNs_MPF/blob/Main/Supplementary/Intro_Framework.gif](https://github.com/SFETNI/KKS-Phase-Field-code/blob/main/save_fig/Supp_Mat_computed_microstructure_evolution.mp4)](https://github.com/SFETNI/KKS-Phase-Field-code/blob/main/save_fig/Supp_Mat_computed_microstructure_evolution.mp4))
 
 For more information on how to setup and run the code, refer to the detailed comments within each script and notebook. If you encounter any issues or have questions, feel free to open an issue in this repository.
