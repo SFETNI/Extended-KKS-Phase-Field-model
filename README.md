@@ -4,8 +4,8 @@
 This framework extends the  KKS model using the Phase-Field method to reproduce DSC tests. It serves as a software realization of the research described in [paper title], focusing on [brief abstract or summary of the paper]. This implementation includes various computational tools and data to replicate and expand upon the paper's findings.
 
 ## related Article (under consideration)
-Extension of a KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes
-more details will be available 
+- Extension of a KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes
+- more details will be available 
 
 ## Code Structure
 The project is mainly divided into two Jupyter notebooks:
