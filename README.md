@@ -47,6 +47,8 @@ You are free to use, edit, and distribute this code under [Apache License v2.0].
 ---
 
 ## Supplementary video:
-![](https://github.com/SFETNI/KKS-Phase-Field-code/blob/main/save_fig/Supp_Mat_computed_microstructure_evolution.gif)
+- Simulation of the microsctructure evolution of AlSi10Mg SLM material during anisothermal heat load : matrix desaturation and growth and coalescence of d-Si precipitates. Further post-processing allows the obtention of the DSC curves
+ as detailled in the related article and achieved by the post-process tool.
+- ![](https://github.com/SFETNI/KKS-Phase-Field-code/blob/main/save_fig/Supp_Mat_computed_microstructure_evolution.gif)
 
 For more information on how to setup and run the code, refer to the detailed comments within each script and notebook. If you encounter any issues or have questions, feel free to open an issue in this repository.
