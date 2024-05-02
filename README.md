@@ -64,7 +64,7 @@ To use this framework:
 - **High-Performance Computing (HPC)**: For larger simulations, such as those from 0.5 up to 1 µm squared, and for frequent mapping (saving of maps), using High-Performance Computing resources is recommended. HPC can significantly accelerate computation, especially for high-resolution and extensive simulation tasks.
 
 ### Customization
-- Modify simulation parameters and inputs in the notebooks to explore different material behaviors and processing conditions. This flexibility allows for extensive customization depending on specific research needs or industrial applications.
+- Modify simulation parameters and inputs in the notebooks to explore different material properties (e.g. Calphad Data) and processing conditions (e.g. heat ramp). This flexibility allows for extensive customization depending on specific research needs or industrial applications.
 
 ## Licensing
 You are free to use, edit, and distribute this code under [Apache License v2.0]. 
