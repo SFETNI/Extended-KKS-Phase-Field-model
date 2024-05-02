@@ -8,7 +8,7 @@ This framework extends the  KKS model using the Phase-Field method to reproduce 
 - more details will be available 
 
 ## Code Structure
-The project is organized into two main parts, focusing on different aspects of the KKS code implementation, and consists of three primary Jupyter notebooks:
+The project is organized into two main parts, focusing on different aspects of the Extended KKS model implementation, and consists of three primary Jupyter notebooks:
 
 ### Jupyter Notebooks
 1. **Main Simulation Code**
