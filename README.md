@@ -17,7 +17,6 @@ The project is organized into two main parts, focusing on different aspects of t
 2. **Post-Processing Tools**
    - `Postprocess.ipynb`: This notebook is utilized for the post-processing of simulation outputs. It deals with:
      - Mapping of microstructures.
-     - Analysis of Differential Scanning Calorimetry (DSC) curves.
      - Qualitative analysis including microstructure evolution.
 
 3. **DSC Analysis Tool**
