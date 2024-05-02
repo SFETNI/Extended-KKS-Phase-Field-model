@@ -36,7 +36,7 @@ Note: The maps allow also the continuation/restart/bakcup of the simulation.
 ### Data and Scripts
 - **Data Files**: 
   - `micro_final.npz`: Contains the Calphad data used within the simulations.
-  - Initialization data are stored in a text file for easy access and manipulation.
+  - Initialization data are stored in a text file for easy access and manipulation (you can directly create/modify your initialization through the notebook of import it after external preparation).
 - **Script Files**: 
   - Python script files (`*.py`) contain the various routines required to run the code. These scripts are automatically loaded by the main Jupyter notebook.
 
