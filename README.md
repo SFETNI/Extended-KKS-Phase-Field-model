@@ -60,7 +60,7 @@ The code leverages modern Python libraries along with acceleration and paralleli
 To use this framework:
 1. Ensure that you have Python 3.7 or higher installed along with the required libraries.
 2. Clone this repository to your local machine.
-3. Open the `pyFi_origin.ipynb` to run the KKS code or `Postprocess.ipynb` for post-processing tasks.
+3. Open the `pyFi_origin.ipynb` to run the KKS code or `Postprocess.ipynb` and `compute_DSC.ipynb` for post-processing tasks.
 
 ### Performance Recommendations
 - **Regular Computing**: The framework can run on a standard desktop (e.g., 16 GB RAM, Intel i7 processor). This setup is adequate for handling smaller grids and less frequent mapping tasks. You can save your own maps and utilize them for various post-processing tasks and testing different input process parameters, such as temperature ramps and material properties.
