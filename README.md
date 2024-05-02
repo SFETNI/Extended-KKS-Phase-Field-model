@@ -17,7 +17,7 @@ The project is organized into two main parts, focusing on different aspects of t
 2. **Post-Processing Tools**
    - `Postprocess.ipynb`: This notebook is utilized for the post-processing of simulation outputs. It deals with:
      - Mapping of microstructures.
-     - Qualitative analysis including microstructure evolution.
+     - Qualitative and Pre-quantitative analysis including microstructure evolution.
 
 3. **DSC Analysis Tool**
    - `compute_DSC.ipynb`: Dedicated to computing quantitative data from simulations, specifically focusing on DSC heat curves.
