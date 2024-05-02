@@ -24,7 +24,7 @@ The project is organized into two main parts, focusing on different aspects of t
    - `compute_DSC.ipynb`: Dedicated to computing quantitative data from simulations, specifically focusing on DSC heat curves.
 
 ### Additional Details
-Each notebook utilizes output data which includes various simulation details like:
+The so called "maps" store output data which includes various simulation details like:
 - Concentrations of phases.
 - Order parameters.
 - Energy residuals.
