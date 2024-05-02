@@ -53,7 +53,7 @@ The output maps are saved in associated folders, organized by:
 The code leverages modern Python libraries along with acceleration and parallelization packages to enhance performance. Key dependencies include:
 - `numba`: A Just-In-Time compiler that translates a subset of Python and NumPy code into fast machine code.
 - `pyfftw`: A Pythonic wrapper around the FFTW library, which is one of the fastest Fourier transform libraries available.
-Additionally, modern coding techniques such as vectorization and broadcasting are extensively employed to optimize computational efficiency. These techniques help to speed up operations by reducing the explicit loops in the code and making full use of the underlying hardware capabilities.
+- Additionally, modern coding techniques such as vectorization and broadcasting are extensively employed to optimize computational efficiency. These techniques help to speed up operations by reducing the explicit loops in the code and making full use of the underlying hardware capabilities.
 
 
 ## Usage
