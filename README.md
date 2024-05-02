@@ -59,6 +59,13 @@ To use this framework:
 2. Clone this repository to your local machine.
 3. Open the `pyFi_origin.ipynb` to run the KKS code or `Postprocess.ipynb` for post-processing tasks.
 
+### Performance Recommendations
+- **Regular Computing**: The framework can run on a standard desktop (e.g., 16 GB RAM, Intel i7 processor). This setup is adequate for handling smaller grids and less frequent mapping tasks. You can save your own maps and utilize them for various post-processing tasks and testing different input process parameters, such as temperature ramps and material properties.
+- **High-Performance Computing (HPC)**: For larger simulations, such as those from 0.5 up to 1 µm squared, and for frequent mapping (saving of maps), using High-Performance Computing resources is recommended. HPC can significantly accelerate computation, especially for high-resolution and extensive simulation tasks.
+
+### Customization
+- Modify simulation parameters and inputs in the notebooks to explore different material behaviors and processing conditions. This flexibility allows for extensive customization depending on specific research needs or industrial applications.
+
 ## Licensing
 You are free to use, edit, and distribute this code under [Apache License v2.0]. 
 
