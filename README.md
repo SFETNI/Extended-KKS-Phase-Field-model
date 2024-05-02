@@ -29,7 +29,7 @@ The so called "maps" store output data which includes various simulation details
 - Energy residuals.
 These information are captured at regular intervals throughout the simulation process, enabling a thorough analysis of both the physical properties and the computational performance.
 
-Note: The maps allow also the continuation/restart/bakcup of the simulation.
+Note: The maps allow also the continuation/restart/bakcup of the simulation (checkpointing).
 
   
 
