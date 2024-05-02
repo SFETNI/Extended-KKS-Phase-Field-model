@@ -8,9 +8,12 @@ This framework extends the  KKS model using the Phase-Field method to reproduce 
 - more details will be available 
 
 ## Code Structure
-The project is mainly divided into two Jupyter notebooks:
-- `pyFi_origin.ipynb`: This is the main notebook for running the KKS code.
-- `Postprocess.ipynb`: Used for post-processing of maps and Differential Scanning Calorimetry (DSC) curves.
+The project is mainly divided into two main parts and 3 main Jupyter notebooks:
+1 - `pyFi_origin.ipynb` : This is the main notebook for running the KKS code.
+  - `Postprocess.ipynb`: Used for post-processing of maps and Differential Scanning Calorimetry (DSC) curves.
+ ==> Qualitative analysis ==> microstructure evolution
+2-  DSC tool : compute_DSC.ipynb  ==> Quantitative quantities : DSC heat curves
+  
 
 ### Data and Scripts
 - **Data Files**: 
