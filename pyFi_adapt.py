@@ -1065,7 +1065,7 @@ def main(T_start,Xeq,eta,X,X_al,X_th,Lv2,tresh,
    array_fa_ca_s= []
    array_time_res=[]
    #----------------------------------------------------------------------------
-   good_step=1  # to comment if no nucelation
+   #good_step=1  # to comment if no nucelation
 
    # start the loop over the desired number of time step
    for istep in range(nstep):
@@ -1078,7 +1078,7 @@ def main(T_start,Xeq,eta,X,X_al,X_th,Lv2,tresh,
 
         # Compute the temperature by linear interpolation for values given in time_slm_tab1, temp_slm_tab1
         T = np.interp(t, time_slm_tab1, temp_slm_tab1)
-        T= 438 # constant if nucleation
+        #T= 438 # constant if nucleation (put your  temp)
         
         # if the desire time step is in the variable ask_step2
         # compute the surface of the precipitate
