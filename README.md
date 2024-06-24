@@ -1,4 +1,4 @@
-﻿# Extended KKS Code using Phase-Field Method : A Phase-field model for growth and coarsening of Si precipitate in AlSi10Mg SLM/LPBF in a super-saturated matrix
+﻿# Extended Phase-Field KKS Code using Phase-Field Method : A Phase-field model for growth and coarsening of Si precipitate in AlSi10Mg SLM/LPBF in a super-saturated matrix
 
 ## Overview
 This framework extends the  KKS model using the Phase-Field method to reproduce DSC tests. It serves as an open-source code realization of the research described in [the asoociated paper], focusing on [growth and coarseing of precipitates in LPBF AlSi10Mg alloy]. This implementation includes various computational tools and data to replicate and expand upon the paper's findings.
