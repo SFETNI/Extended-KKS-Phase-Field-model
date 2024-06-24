@@ -67,6 +67,9 @@ To use this framework:
 - **Regular Computing**: The framework can run on a standard desktop (e.g., 16 GB RAM, Intel i7 processor). This setup is adequate for handling smaller grids and less frequent mapping tasks. You can save your own maps and utilize them for various post-processing tasks and testing different input process parameters, such as temperature ramps and material properties.
 - **High-Performance Computing (HPC)**: For larger simulations, such as those from 0.5 up to 1 µm squared, and for frequent mapping (saving of maps), using High-Performance Computing resources is recommended. HPC can significantly accelerate computation, especially for high-resolution and extensive simulation tasks.
 
+### Reproducible run
+For a complete and reproducible simulation setup, please download and extract [ReproducibleRun.zip], which contains all necessary scripts and files to run the simulation directly on your HPC or local machine.
+
 ### Customization
 - Modify simulation parameters and inputs in the notebooks to explore different material properties (e.g. Calphad Data) and processing conditions (e.g. heat ramp). This flexibility allows for extensive customization depending on specific research needs or industrial applications.
 
