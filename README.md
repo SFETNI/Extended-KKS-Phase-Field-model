@@ -23,7 +23,7 @@ author = {Seifallah Fetni and Jocelyn Delahaye and Héctor Sepúlveda and Lauren
 
 ## Contributors
 - **Code Developers**: [Jocelyn Delahaye and Seifallah El Fetni]
-- Developped  code   in  ULiège  by  two  researchers  J.  Delahaye  PdD  thesis  (Delahaye, J. (2022). How to feed and validate a phase-field model predicting the evolution of microstructures and properties in AlSi10Mg processed by Selective Laser Melting [Doctoral thesis, ULiège -https://orbi.uliege.be/handle/2268/293324) and  S.  Fetni  (Post  Doc  Grant IN IPD-STEMA 2019 grant and faculty post doc grant 2021) article  submitted  in  Computational Materials Science 2024 (Extension of a KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes). - More details for citation will be available 
+- Developped  code   in  ULiège  by  two  researchers  J.  Delahaye  PdD  thesis  (Delahaye, J. (2022). How to feed and validate a phase-field model predicting the evolution of microstructures and properties in AlSi10Mg processed by Selective Laser Melting [Doctoral thesis, ULiège -https://orbi.uliege.be/handle/2268/293324) and  S.  Fetni  (Post  Doc  Grant IN IPD-STEMA 2019 grant and faculty post doc grant 2021) article published  in Computational Materials Science 2024 (Extension of a KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes  with doi: https://doi.org/10.1016/j.commatsci.2024.113197). 
 
 
 ## Code Structure
