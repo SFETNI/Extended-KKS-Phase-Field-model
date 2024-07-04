@@ -4,7 +4,9 @@
 This framework extends the  KKS model using the Phase-Field method to reproduce DSC tests. It serves as an open-source code realization of the research described in [the asoociated paper], focusing on [growth and coarseing of precipitates in LPBF AlSi10Mg alloy]. This implementation includes various computational tools and data to replicate and expand upon the paper's findings.
 
 ## related article 
-Extension of a phase-field KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes
+Extension of a phase-field KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes,
+Seifallah Fetni, Jocelyn Delahaye, Héctor Sepúlveda , Laurent Duchêne, Anne Marie Habraken and Anne Mertens, Computational Materials Science
+Volume 244, September 2024, 113197
 https://doi.org/10.1016/j.commatsci.2024.113197
 
 ## Citation (if you find this study helpful)
