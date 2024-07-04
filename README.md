@@ -7,7 +7,6 @@ This framework extends the  KKS model using the Phase-Field method to reproduce 
 Extension of a phase-field KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes,
 Seifallah Fetni, Jocelyn Delahaye, Héctor Sepúlveda , Laurent Duchêne, Anne Marie Habraken and Anne Mertens, Computational Materials Science
 Volume 244, September 2024, 113197
-https://doi.org/10.1016/j.commatsci.2024.113197
 
 https://authors.elsevier.com/a/1jN7i_L4--JJYY
 
