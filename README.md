@@ -3,6 +3,22 @@
 ## Overview
 This framework extends the  KKS model using the Phase-Field method to reproduce DSC tests. It serves as an open-source code realization of the research described in [the asoociated paper], focusing on [growth and coarseing of precipitates in LPBF AlSi10Mg alloy]. This implementation includes various computational tools and data to replicate and expand upon the paper's findings.
 
+## related article 
+Extension of a phase-field KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes
+https://doi.org/10.1016/j.commatsci.2024.113197
+
+## Citation (if you find this study helpful)
+@article{FETNI2024113197,
+title = {Extension of a phase-field KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes},
+journal = {Computational Materials Science},
+volume = {244},
+pages = {113197},
+year = {2024},
+issn = {0927-0256},
+doi = {https://doi.org/10.1016/j.commatsci.2024.113197},
+author = {Seifallah Fetni and Jocelyn Delahaye and Héctor Sepúlveda and Laurent Duchêne and Anne Marie Habraken and Anne Mertens},
+}
+
 ## Contributors
 - **Code Developers**: [Jocelyn Delahaye and Seifallah El Fetni]
 - Developped  code   in  ULiège  by  two  researchers  J.  Delahaye  PdD  thesis  (Delahaye, J. (2022). How to feed and validate a phase-field model predicting the evolution of microstructures and properties in AlSi10Mg processed by Selective Laser Melting [Doctoral thesis, ULiège -https://orbi.uliege.be/handle/2268/293324) and  S.  Fetni  (Post  Doc  Grant IN IPD-STEMA 2019 grant and faculty post doc grant 2021) article  submitted  in  Computational Materials Science 2024 (Extension of a KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes). - More details for citation will be available 
