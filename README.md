@@ -9,6 +9,8 @@ Seifallah Fetni, Jocelyn Delahaye, Héctor Sepúlveda , Laurent Duchêne, Anne M
 Volume 244, September 2024, 113197
 https://doi.org/10.1016/j.commatsci.2024.113197
 
+https://authors.elsevier.com/a/1jN7i_L4--JJYY
+
 ## Citation (if you find this study helpful)
 @article{FETNI2024113197,
 title = {Extension of a phase-field KKS model to predict the microstructure evolution in LPBF AlSi10Mg alloy submitted to non isothermal processes},
