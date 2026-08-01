@@ -8,7 +8,7 @@ Extension of a phase-field KKS model to predict the microstructure evolution in 
 Seifallah Fetni, Jocelyn Delahaye, Héctor Sepúlveda , Laurent Duchêne, Anne Marie Habraken and Anne Mertens, Computational Materials Science
 Volume 244, September 2024, 113197
 
-https://authors.elsevier.com/a/1jN7i_L4--JJYY
+[https://authors.elsevier.com/a/1jN7i_L4--JJYY](https://www.sciencedirect.com/science/article/abs/pii/S092702562400418X)
 
 ## Citation (if you find this study helpful)
 @article{FETNI2024113197,
